@@ -1,0 +1,31 @@
+{
+  "authorName": "Rahul Saini",
+  "role": "Author & Novelist",
+  "tagline": "Official website of Rahul Saini — Bestselling Novelist, Traveler & Teacher.",
+  "email": "rahulsaini258@gmail.com",
+  "metaTitle": "Rahul Saini | Official Author Website",
+  "metaDescription": "Official website of Rahul Saini, bestselling Indian author of Love to Hurt You, Paperback Dreams, Those Small Lil Things, and more.",
+  "footerText": "© 2025 Rahul Saini. All rights reserved.",
+  "social": [
+    { "label": "Instagram", "href": "https://www.instagram.com/rahulsainiofficial/" },
+    { "label": "Twitter", "href": "https://twitter.com/rahulsaini" },
+    { "label": "Facebook", "href": "https://www.facebook.com/rahulsainiofficial" },
+    { "label": "Goodreads", "href": "https://www.goodreads.com/author/show/1502476.Rahul_Saini" }
+  ],
+  "aboutShort": "Rahul Saini started his career as an architect before embarking on his writing journey. He wrote his first novel \"Those Small Lil Things\" in 2008 to national acclaim. Passionate about movies, storytelling, and teaching, he conducts interactive fiction writing workshops for students.",
+  "aboutLong": [
+    "Rahul Saini is a high-spirited author who started his professional career as an architect. Passionate about movies, TV series, and reading, he wrote his first novel \"Those Small Lil Things\" in 2008 to national acclaim.",
+    "Since his breakout debut, he has authored several bestselling novels including \"Love to Hurt You\", \"The Orange Hangover\", \"Paperback Dreams\", \"Just For You\", and \"Just Like In The Movies\". His books candidly explore young relationships, creative ambition, and the inner workings of the Indian publishing industry with his trademark wit and humor.",
+    "In addition to writing, Rahul conducts interactive fiction writing workshops for students across India, has a keen interest in fine arts and filmmaking, loves spending time with friends and family, and wishes the whole world could live the life of F.R.I.E.N.D.S."
+  ],
+  "portraitHero": "/images/author-portrait-hero.png",
+  "portraitAbout": "/images/author-portrait-about.png",
+  "nav": [
+    { "label": "Books", "href": "/books", "enabled": true, "order": 0 },
+    { "label": "Blog", "href": "/blog", "enabled": true, "order": 1 },
+    { "label": "Writings", "href": "/writings", "enabled": true, "order": 2 },
+    { "label": "About", "href": "/about", "enabled": true, "order": 3 },
+    { "label": "Press", "href": "/press", "enabled": true, "order": 4 },
+    { "label": "Contact", "href": "/contact", "enabled": true, "order": 5 }
+  ]
+}

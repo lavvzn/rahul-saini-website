@@ -1,0 +1,29 @@
+[
+  {
+    "id": "a-letter-to-a-younger-reader",
+    "slug": "a-letter-to-a-younger-reader",
+    "title": "A Letter to a Younger Reader",
+    "date": "February 18, 2025",
+    "excerpt": "A short essay written for anyone who still finds their way to books first.",
+    "image": "",
+    "content": [
+      "Books have a unique way of opening doors that we didn't even know existed. Reading creates an inner room where imagination can breathe freely.",
+      "To every young reader picking up their first novel: trust the journey of the story."
+    ],
+    "published": true,
+    "order": 0
+  },
+  {
+    "id": "on-silence-and-sentences",
+    "slug": "on-silence-and-sentences",
+    "title": "On Silence and Sentences",
+    "date": "December 4, 2024",
+    "excerpt": "An essay on the pauses between words, and what they are asked to carry.",
+    "image": "",
+    "content": [
+      "In fiction, what remains unsaid is often as potent as the dialogue on the page."
+    ],
+    "published": true,
+    "order": 1
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "praise-1",
+    "quote": "Author Rahul Saini has caught the pulse of his readers well. He uses metaphors to connect with the present generation.",
+    "publication": "The Tribune",
+    "published": true,
+    "order": 0
+  },
+  {
+    "id": "praise-2",
+    "quote": "Having mastered the young adult genre of writing, he blends rib-tickling comic tones to it.",
+    "publication": "The Statesman",
+    "published": true,
+    "order": 1
+  },
+  {
+    "id": "praise-3",
+    "quote": "Rahul Saini now spills all the dirty secrets of the city's publishing scene.",
+    "publication": "HT City",
+    "published": true,
+    "order": 2
+  },
+  {
+    "id": "praise-4",
+    "quote": "Rahul Saini's newest book is a behind-the-scene look at the (sometimes) murky world of book publishing and the writing process.",
+    "publication": "The Metrognome",
+    "published": true,
+    "order": 3
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "the-tribune-review",
+    "slug": "the-tribune-review",
+    "publication": "The Tribune",
+    "headline": "Author Rahul Saini catches the pulse of his readers well",
+    "date": "Review Coverage",
+    "excerpt": "Author Rahul Saini has caught the pulse of his readers well. He uses metaphors to connect with the present generation.",
+    "url": "",
+    "published": true,
+    "order": 0
+  },
+  {
+    "id": "the-statesman-feature",
+    "slug": "the-statesman-feature",
+    "publication": "The Statesman",
+    "headline": "Mastering the young adult genre with comic tones",
+    "date": "Feature Review",
+    "excerpt": "Having mastered the young adult genre of writing, he blends rib-tickling comic tones to it.",
+    "url": "",
+    "published": true,
+    "order": 1
+  },
+  {
+    "id": "ht-city-review",
+    "slug": "ht-city-review",
+    "publication": "HT City",
+    "headline": "Rahul Saini spills secrets of the publishing scene",
+    "date": "Press Feature",
+    "excerpt": "Rahul Saini now spills all the dirty secrets of the city's publishing scene.",
+    "url": "",
+    "published": true,
+    "order": 2
+  },
+  {
+    "id": "the-metrognome-review",
+    "slug": "the-metrognome-review",
+    "publication": "The Metrognome",
+    "headline": "A behind-the-scene look at the world of book publishing",
+    "date": "Literary Coverage",
+    "excerpt": "Rahul Saini's newest book is a behind-the-scene look at the (sometimes) murky world of book publishing and the writing process.",
+    "url": "",
+    "published": true,
+    "order": 3
+  }
+]

@@ -1,0 +1,604 @@
+[
+  {
+    "id": 3549,
+    "date": "2023-06-11T13:11:36",
+    "date_gmt": "2023-06-11T13:11:36",
+    "guid": {
+      "rendered": "https://rahul-saini.com/?page_id=3549"
+    },
+    "modified": "2023-06-12T08:27:50",
+    "modified_gmt": "2023-06-12T08:27:50",
+    "slug": "contact",
+    "status": "publish",
+    "type": "page",
+    "link": "https://rahul-saini.com/contact/",
+    "title": {
+      "rendered": "Contact"
+    },
+    "content": {
+      "rendered": "<div id='av_section_1'  class='avia-section main_color avia-section-default avia-no-border-styling  avia-bg-style-scroll  avia-builder-el-0  avia-builder-el-no-sibling   container_wrap sidebar_right' style=' '  ><div class='container' ><main  role=\"main\" itemprop=\"mainContentOfPage\"  class='template-page content  av-content-small alpha units'><div class='post-entry post-entry-type-page post-entry-3549'><div class='entry-content-wrapper clearfix'>\n<div class=\"flex_column av_one_half  flex_column_div av-zero-column-padding first  avia-builder-el-1  el_before_av_one_half  avia-builder-el-first  \" style='border-radius:0px; '><section class=\"av_textblock_section \"  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class='avia_textblock  '   itemprop=\"text\" ><h2>Contact Us</h2>\n<p>Feel free to fill form, we ll reach at you soon.</p>\n<p><strong>Email</strong>: <a href=\"mailto:rahulsaini258@gmail.com\">rahulsaini258@gmail.com</a></p>\n</div></section><br />\n<span  class=\"av_font_icon avia_animate_when_visible avia-icon-animate  av-icon-style-  av-no-color avia-icon-pos-left \" style=\"\"><a href='https://www.instagram.com/writingrahul/'   class='av-icon-char' style='font-size:25px;line-height:25px;' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' ></a></span><br />\n<span  class=\"av_font_icon avia_animate_when_visible avia-icon-animate  av-icon-style-  av-no-color avia-icon-pos-left \" style=\"\"><a href='https://twitter.com/WritingRahul'   class='av-icon-char' style='font-size:25px;line-height:25px;' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' ></a></span><br />\n<span  class=\"av_font_icon avia_animate_when_visible avia-icon-animate  av-icon-style-  av-no-color avia-icon-pos-left \" style=\"\"><a href='https://www.youtube.com/@WritingRahul'   class='av-icon-char' style='font-size:25px;line-height:25px;' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' ></a></span></p></div><div class=\"flex_column av_one_half  flex_column_div av-zero-column-padding   avia-builder-el-6  el_after_av_one_half  avia-builder-el-last  \" style='border-radius:0px; '><form action=\"https://rahul-saini.com/contact/\" method=\"post\"  class=\"avia_ajax_form av-form-labels-visible   avia-builder-el-7  avia-builder-el-no-sibling   \" data-avia-form-id=\"1\" data-avia-redirect='' ><h3 class=''>Send us mail</h3><fieldset><p class='  first_form  form_element form_fullwidth' id='element_avia_1_1'><label for=\"avia_1_1\">Name <abbr class=\"required\" title=\"required\">*</abbr></label> <input name=\"avia_1_1\" class=\"text_input is_empty\" type=\"text\" id=\"avia_1_1\" value=\"\" /></p><p class='  first_form  form_element form_fullwidth' id='element_avia_2_1'><label for=\"avia_2_1\">E-Mail <abbr class=\"required\" title=\"required\">*</abbr></label> <input name=\"avia_2_1\" class=\"text_input is_email\" type=\"text\" id=\"avia_2_1\" value=\"\" /></p><p class='  first_form  form_element form_fullwidth' id='element_avia_3_1'><label for=\"avia_3_1\">Subject <abbr class=\"required\" title=\"required\">*</abbr></label> <input name=\"avia_3_1\" class=\"text_input is_empty\" type=\"text\" id=\"avia_3_1\" value=\"\" /></p><p class='  first_form  form_element form_fullwidth' id='element_avia_4_1'><label for=\"avia_4_1\" class=\"textare_label hidden textare_label_avia_4_1\">Message <abbr class=\"required\" title=\"required\">*</abbr></label><textarea  name=\"avia_4_1\" class=\"text_area is_empty\" cols=\"40\" rows=\"7\" id=\"avia_4_1\" ></textarea></p><p class=\"hidden\"><input type=\"text\" name=\"avia_5_1\" class=\"hidden \" id=\"avia_5_1\" value=\"\" /></p><p class='   form_element form_fullwidth' id='element_avia_6_1'><span class='value_verifier_label'>0 + 1 = ?</span><input name=\"avia_6_1_verifier\" type=\"hidden\" id=\"avia_6_1_verifier\" value=\"827311174\"/><label for=\"avia_6_1\">Please prove that you are human by solving the equation <abbr class=\"required\" title=\"required\">*</abbr></label><input name=\"avia_6_1\" class=\"text_input captcha\" type=\"text\" id=\"avia_6_1\" value=\"\"/></p><p class=\"form_element \"><input type=\"hidden\" value=\"1\" name=\"avia_generated_form1\" /><input type=\"submit\" value=\"Submit\" class=\"button\"  data-sending-label=\"Sending\"/></p></fieldset></form><div id=\"ajaxresponse_1\" class=\"ajaxresponse ajaxresponse_1 hidden\"></div></div></div></div></main><!-- close content main element --></div></div><div id='after_section_1'  class='main_color av_default_container_wrap container_wrap sidebar_right' style=' '  ><div class='container' ><div class='template-page content  av-content-small alpha units'><div class='post-entry post-entry-type-page post-entry-3549'><div class='entry-content-wrapper clearfix'>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.8 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Contact - Rahul Saini</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://rahul-saini.com/contact/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Contact - Rahul Saini\" />\n<meta property=\"og:url\" content=\"https://rahul-saini.com/contact/\" />\n<meta property=\"og:site_name\" content=\"Rahul Saini\" />\n<meta property=\"article:modified_time\" content=\"2023-06-12T08:27:50+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"2 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://rahul-saini.com/contact/\",\"url\":\"https://rahul-saini.com/contact/\",\"name\":\"Contact - Rahul Saini\",\"isPartOf\":{\"@id\":\"https://rahul-saini.com/#website\"},\"datePublished\":\"2023-06-11T13:11:36+00:00\",\"dateModified\":\"2023-06-12T08:27:50+00:00\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://rahul-saini.com/contact/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://rahul-saini.com/#website\",\"url\":\"https://rahul-saini.com/\",\"name\":\"Rahul Saini\",\"description\":\"Author, Traveler &amp; Teacher\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://rahul-saini.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Contact - Rahul Saini",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://rahul-saini.com/contact/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Contact - Rahul Saini",
+      "og_url": "https://rahul-saini.com/contact/",
+      "og_site_name": "Rahul Saini",
+      "article_modified_time": "2023-06-12T08:27:50+00:00",
+      "twitter_card": "summary_large_image",
+      "twitter_misc": {
+        "Est. reading time": "2 minutes"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://rahul-saini.com/contact/",
+            "url": "https://rahul-saini.com/contact/",
+            "name": "Contact - Rahul Saini",
+            "isPartOf": {
+              "@id": "https://rahul-saini.com/#website"
+            },
+            "datePublished": "2023-06-11T13:11:36+00:00",
+            "dateModified": "2023-06-12T08:27:50+00:00",
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://rahul-saini.com/contact/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://rahul-saini.com/#website",
+            "url": "https://rahul-saini.com/",
+            "name": "Rahul Saini",
+            "description": "Author, Traveler &amp; Teacher",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://rahul-saini.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-US"
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://rahul-saini.com/wp-json/wp/v2/pages/3549"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://rahul-saini.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://rahul-saini.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://rahul-saini.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://rahul-saini.com/wp-json/wp/v2/comments?post=3549"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 8,
+          "href": "https://rahul-saini.com/wp-json/wp/v2/pages/3549/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 3570,
+          "href": "https://rahul-saini.com/wp-json/wp/v2/pages/3549/revisions/3570"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://rahul-saini.com/wp-json/wp/v2/media?parent=3549"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3536,
+    "date": "2023-06-11T12:46:11",
+    "date_gmt": "2023-06-11T12:46:11",
+    "guid": {
+      "rendered": "https://rahul-saini.com/?page_id=3536"
+    },
+    "modified": "2023-06-11T13:34:02",
+    "modified_gmt": "2023-06-11T13:34:02",
+    "slug": "about",
+    "status": "publish",
+    "type": "page",
+    "link": "https://rahul-saini.com/about/",
+    "title": {
+      "rendered": "About"
+    },
+    "content": {
+      "rendered": "<div id='av_section_2'  class='avia-section main_color avia-section-default avia-no-border-styling  avia-bg-style-scroll  avia-builder-el-0  el_before_av_section  avia-builder-el-first   container_wrap sidebar_right' style=' '  ><div class='container' ><main  role=\"main\" itemprop=\"mainContentOfPage\"  class='template-page content  av-content-small alpha units'><div class='post-entry post-entry-type-page post-entry-3549'><div class='entry-content-wrapper clearfix'>\n<div class=\"flex_column av_one_half  flex_column_div av-zero-column-padding first  avia-builder-el-1  el_before_av_one_half  avia-builder-el-first  \" style='border-radius:0px; '><section class=\"av_textblock_section \"  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class='avia_textblock  '   itemprop=\"text\" ><p>Rahul Saini is a high spirited young man started as an architect. Passionate about movies, TV series and reading. He wrote his first novel ‘Those Small Lil Things’ in 2008 to national acclaim. He conducts interactive fiction writing workshops for students. He has a keen interest in fine arts and filmmaking. He loves to spend time with his family and friends, and wishes that the whole world could live the life of F.R.I.E.N.D.S.</p>\n</div></section></div><div class=\"flex_column av_one_half  flex_column_div av-zero-column-padding   avia-builder-el-3  el_after_av_one_half  avia-builder-el-last  \" style='border-radius:0px; '><div  class='avia-image-container  av-styling-    avia-builder-el-4  avia-builder-el-no-sibling  avia-align-center '  itemprop=\"image\" itemscope=\"itemscope\" itemtype=\"https://schema.org/ImageObject\"  ><div class='avia-image-container-inner'><div class='avia-image-overlay-wrap'><img decoding=\"async\" class='wp-image-3542 avia-img-lazy-loading-not-3542 avia_image' src=\"https://rahul-saini.com/wp-content/uploads/2023/06/rahul-saini-300x292.jpg\" alt='' title='rahul saini' height=\"292\" width=\"300\"  itemprop=\"thumbnailUrl\" srcset=\"https://rahul-saini.com/wp-content/uploads/2023/06/rahul-saini-300x292.jpg 300w, https://rahul-saini.com/wp-content/uploads/2023/06/rahul-saini-768x748.jpg 768w, https://rahul-saini.com/wp-content/uploads/2023/06/rahul-saini-36x36.jpg 36w, https://rahul-saini.com/wp-content/uploads/2023/06/rahul-saini-705x687.jpg 705w, https://rahul-saini.com/wp-content/uploads/2023/06/rahul-saini.jpg 779w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></div></div></div></div>\n\n</div></div></main><!-- close content main element --></div></div><div id='av_section_3'  class='avia-section main_color avia-section-default avia-no-border-styling  avia-bg-style-scroll  avia-builder-el-5  el_after_av_section  avia-builder-el-last   container_wrap sidebar_right' style=' '  ><div class='container' ><div class='template-page content  av-content-small alpha units'><div class='post-entry post-entry-type-page post-entry-3549'><div class='entry-content-wrapper clearfix'>\n<div  style='padding-bottom:10px; ' class='av-special-heading av-special-heading-h2  blockquote modern-quote modern-centered  avia-builder-el-6  el_before_av_postslider  avia-builder-el-first  '><h2 class='av-special-heading-tag '  itemprop=\"headline\"  >My Books</h2><div class='special-heading-border'><div class='special-heading-inner-border' ></div></div></div>\n<div   data-autoplay=''  data-interval='5'  data-animation='fade'  data-show_slide_delay='90'  class='avia-content-slider avia-content-slider-active avia-content-slider1 avia-content-slider-even  avia-builder-el-7  el_after_av_heading  avia-builder-el-last  '  itemscope=\"itemscope\" itemtype=\"https://schema.org/Blog\" ><div class='avia-content-slider-inner'><div class='slide-entry-wrap'><article class='slide-entry flex_column  post-entry post-entry-3506 slide-entry-overview slide-loop-1 slide-parity-odd  av_one_fourth first real-thumbnail post-format-standard'  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><a href='https://rahul-saini.com/love-to-hurt-you/' data-rel='slide-1' class='slide-image' title='Love to Hurt You'><img width=\"1080\" height=\"1631\" src=\"https://rahul-saini.com/wp-content/uploads/2021/01/Love-to-hurt-you-cover.jpg\" class=\"wp-image-3509 avia-img-lazy-loading-not-3509 attachment-no scaling size-no scaling wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://rahul-saini.com/wp-content/uploads/2021/01/Love-to-hurt-you-cover.jpg 1080w, https://rahul-saini.com/wp-content/uploads/2021/01/Love-to-hurt-you-cover-199x300.jpg 199w, https://rahul-saini.com/wp-content/uploads/2021/01/Love-to-hurt-you-cover-682x1030.jpg 682w, https://rahul-saini.com/wp-content/uploads/2021/01/Love-to-hurt-you-cover-768x1160.jpg 768w, https://rahul-saini.com/wp-content/uploads/2021/01/Love-to-hurt-you-cover-1017x1536.jpg 1017w, https://rahul-saini.com/wp-content/uploads/2021/01/Love-to-hurt-you-cover-993x1500.jpg 993w, https://rahul-saini.com/wp-content/uploads/2021/01/Love-to-hurt-you-cover-467x705.jpg 467w\" sizes=\"(max-width: 1080px) 100vw, 1080px\" /></a><div class='slide-content'><header class=\"entry-content-header\"><h3 class='slide-entry-title entry-title '  itemprop=\"headline\" ><a href='https://rahul-saini.com/love-to-hurt-you/' title='Love to Hurt You'>Love to Hurt You</a></h3><span class=\"av-vertical-delimiter\"></span></header><div class='slide-meta'><time class='slide-meta-time updated'  itemprop=\"datePublished\" datetime=\"2021-01-04T09:48:40+00:00\" >January 4, 2021</time></div><div class='slide-entry-excerpt entry-content'  itemprop=\"text\" >\n\n</div></div><footer class=\"entry-footer\"></footer><span class='hidden'>\n\t\t\t\t<span class='av-structured-data'  itemprop=\"image\" itemscope=\"itemscope\" itemtype=\"https://schema.org/ImageObject\" >\n\t\t\t\t\t\t<span itemprop='url'>https://rahul-saini.com/wp-content/uploads/2021/01/Love-to-hurt-you-cover.jpg</span>\n\t\t\t\t\t\t<span itemprop='height'>1631</span>\n\t\t\t\t\t\t<span itemprop='width'>1080</span>\n\t\t\t\t</span>\n\t\t\t\t<span class='av-structured-data'  itemprop=\"publisher\" itemtype=\"https://schema.org/Organization\" itemscope=\"itemscope\" >\n\t\t\t\t\t\t<span itemprop='name'>admin</span>\n\t\t\t\t\t\t<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>\n\t\t\t\t\t\t\t<span itemprop='url'>http://rahul-saini.com/wp-content/uploads/2020/12/newlogo_20201226_125510114-300x70.jpg</span>\n\t\t\t\t\t\t </span>\n\t\t\t\t</span><span class='av-structured-data'  itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"https://schema.org/Person\" ><span itemprop='name'>admin</span></span><span class='av-structured-data'  itemprop=\"datePublished\" datetime=\"2023-06-11T12:46:11+00:00\" >2021-01-04 09:48:40</span><span class='av-structured-data'  itemprop=\"dateModified\" itemtype=\"https://schema.org/dateModified\" >2021-01-04 11:26:19</span><span class='av-structured-data'  itemprop=\"mainEntityOfPage\" itemtype=\"https://schema.org/mainEntityOfPage\" ><span itemprop='name'>Love to Hurt You</span></span></span></article><article class='slide-entry flex_column  post-entry post-entry-3474 slide-entry-overview slide-loop-2 slide-parity-even  av_one_fourth  real-thumbnail post-format-standard'  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><a href='https://rahul-saini.com/the-orange-hangover/' data-rel='slide-1' class='slide-image' title='THE ORANGE HANGOVER'><img width=\"238\" height=\"369\" src=\"https://rahul-saini.com/wp-content/uploads/2020/12/The-Orange-Hangeover_front-small.jpg\" class=\"wp-image-3355 avia-img-lazy-loading-not-3355 attachment-no scaling size-no scaling wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://rahul-saini.com/wp-content/uploads/2020/12/The-Orange-Hangeover_front-small.jpg 238w, https://rahul-saini.com/wp-content/uploads/2020/12/The-Orange-Hangeover_front-small-193x300.jpg 193w\" sizes=\"(max-width: 238px) 100vw, 238px\" /></a><div class='slide-content'><header class=\"entry-content-header\"><h3 class='slide-entry-title entry-title '  itemprop=\"headline\" ><a href='https://rahul-saini.com/the-orange-hangover/' title='THE ORANGE HANGOVER'>THE ORANGE HANGOVER</a></h3><span class=\"av-vertical-delimiter\"></span></header><div class='slide-meta'><time class='slide-meta-time updated'  itemprop=\"datePublished\" datetime=\"2020-12-27T17:31:02+00:00\" >December 27, 2020</time></div><div class='slide-entry-excerpt entry-content'  itemprop=\"text\" >\n\n\n\n</div></div><footer class=\"entry-footer\"></footer><span class='hidden'>\n\t\t\t\t<span class='av-structured-data'  itemprop=\"image\" itemscope=\"itemscope\" itemtype=\"https://schema.org/ImageObject\" >\n\t\t\t\t\t\t<span itemprop='url'>https://rahul-saini.com/wp-content/uploads/2020/12/The-Orange-Hangeover_front-small.jpg</span>\n\t\t\t\t\t\t<span itemprop='height'>369</span>\n\t\t\t\t\t\t<span itemprop='width'>238</span>\n\t\t\t\t</span>\n\t\t\t\t<span class='av-structured-data'  itemprop=\"publisher\" itemtype=\"https://schema.org/Organization\" itemscope=\"itemscope\" >\n\t\t\t\t\t\t<span itemprop='name'>admin</span>\n\t\t\t\t\t\t<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>\n\t\t\t\t\t\t\t<span itemprop='url'>http://rahul-saini.com/wp-content/uploads/2020/12/newlogo_20201226_125510114-300x70.jpg</span>\n\t\t\t\t\t\t </span>\n\t\t\t\t</span><span class='av-structured-data'  itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"https://schema.org/Person\" ><span itemprop='name'>admin</span></span><span class='av-structured-data'  itemprop=\"datePublished\" datetime=\"2023-06-11T12:46:11+00:00\" >2020-12-27 17:31:02</span><span class='av-structured-data'  itemprop=\"dateModified\" itemtype=\"https://schema.org/dateModified\" >2021-01-04 11:29:06</span><span class='av-structured-data'  itemprop=\"mainEntityOfPage\" itemtype=\"https://schema.org/mainEntityOfPage\" ><span itemprop='name'>THE ORANGE HANGOVER</span></span></span></article><article class='slide-entry flex_column  post-entry post-entry-3472 slide-entry-overview slide-loop-3 slide-parity-odd  av_one_fourth  real-thumbnail post-format-standard'  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><a href='https://rahul-saini.com/paperback-dreams/' data-rel='slide-1' class='slide-image' title='PAPERBACK DREAMS'><img width=\"238\" height=\"369\" src=\"https://rahul-saini.com/wp-content/uploads/2020/12/PAPERBACK-DREAMS-small.jpg\" class=\"wp-image-3353 avia-img-lazy-loading-not-3353 attachment-no scaling size-no scaling wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://rahul-saini.com/wp-content/uploads/2020/12/PAPERBACK-DREAMS-small.jpg 238w, https://rahul-saini.com/wp-content/uploads/2020/12/PAPERBACK-DREAMS-small-193x300.jpg 193w\" sizes=\"(max-width: 238px) 100vw, 238px\" /></a><div class='slide-content'><header class=\"entry-content-header\"><h3 class='slide-entry-title entry-title '  itemprop=\"headline\" ><a href='https://rahul-saini.com/paperback-dreams/' title='PAPERBACK DREAMS'>PAPERBACK DREAMS</a></h3><span class=\"av-vertical-delimiter\"></span></header><div class='slide-meta'><time class='slide-meta-time updated'  itemprop=\"datePublished\" datetime=\"2020-12-27T17:27:47+00:00\" >December 27, 2020</time></div><div class='slide-entry-excerpt entry-content'  itemprop=\"text\" >\n\n</div></div><footer class=\"entry-footer\"></footer><span class='hidden'>\n\t\t\t\t<span class='av-structured-data'  itemprop=\"image\" itemscope=\"itemscope\" itemtype=\"https://schema.org/ImageObject\" >\n\t\t\t\t\t\t<span itemprop='url'>https://rahul-saini.com/wp-content/uploads/2020/12/PAPERBACK-DREAMS-small.jpg</span>\n\t\t\t\t\t\t<span itemprop='height'>369</span>\n\t\t\t\t\t\t<span itemprop='width'>238</span>\n\t\t\t\t</span>\n\t\t\t\t<span class='av-structured-data'  itemprop=\"publisher\" itemtype=\"https://schema.org/Organization\" itemscope=\"itemscope\" >\n\t\t\t\t\t\t<span itemprop='name'>admin</span>\n\t\t\t\t\t\t<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>\n\t\t\t\t\t\t\t<span itemprop='url'>http://rahul-saini.com/wp-content/uploads/2020/12/newlogo_20201226_125510114-300x70.jpg</span>\n\t\t\t\t\t\t </span>\n\t\t\t\t</span><span class='av-structured-data'  itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"https://schema.org/Person\" ><span itemprop='name'>admin</span></span><span class='av-structured-data'  itemprop=\"datePublished\" datetime=\"2023-06-11T12:46:11+00:00\" >2020-12-27 17:27:47</span><span class='av-structured-data'  itemprop=\"dateModified\" itemtype=\"https://schema.org/dateModified\" >2021-01-04 11:22:28</span><span class='av-structured-data'  itemprop=\"mainEntityOfPage\" itemtype=\"https://schema.org/mainEntityOfPage\" ><span itemprop='name'>PAPERBACK DREAMS</span></span></span></article><article class='slide-entry flex_column  post-entry post-entry-3465 slide-entry-overview slide-loop-4 slide-parity-even  post-entry-last  av_one_fourth  real-thumbnail post-format-standard'  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><a href='https://rahul-saini.com/just-for-you/' data-rel='slide-1' class='slide-image' title='JUST FOR YOU'><img width=\"238\" height=\"369\" src=\"https://rahul-saini.com/wp-content/uploads/2020/12/Justfor-you-small-cover.jpg\" class=\"wp-image-3351 avia-img-lazy-loading-not-3351 attachment-no scaling size-no scaling wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://rahul-saini.com/wp-content/uploads/2020/12/Justfor-you-small-cover.jpg 238w, https://rahul-saini.com/wp-content/uploads/2020/12/Justfor-you-small-cover-193x300.jpg 193w\" sizes=\"(max-width: 238px) 100vw, 238px\" /></a><div class='slide-content'><header class=\"entry-content-header\"><h3 class='slide-entry-title entry-title '  itemprop=\"headline\" ><a href='https://rahul-saini.com/just-for-you/' title='JUST FOR YOU'>JUST FOR YOU</a></h3><span class=\"av-vertical-delimiter\"></span></header><div class='slide-meta'><time class='slide-meta-time updated'  itemprop=\"datePublished\" datetime=\"2020-12-27T17:11:20+00:00\" >December 27, 2020</time></div><div class='slide-entry-excerpt entry-content'  itemprop=\"text\" >\n\n</div></div><footer class=\"entry-footer\"></footer><span class='hidden'>\n\t\t\t\t<span class='av-structured-data'  itemprop=\"image\" itemscope=\"itemscope\" itemtype=\"https://schema.org/ImageObject\" >\n\t\t\t\t\t\t<span itemprop='url'>https://rahul-saini.com/wp-content/uploads/2020/12/Justfor-you-small-cover.jpg</span>\n\t\t\t\t\t\t<span itemprop='height'>369</span>\n\t\t\t\t\t\t<span itemprop='width'>238</span>\n\t\t\t\t</span>\n\t\t\t\t<span class='av-structured-data'  itemprop=\"publisher\" itemtype=\"https://schema.org/Organization\" itemscope=\"itemscope\" >\n\t\t\t\t\t\t<span itemprop='name'>admin</span>\n\t\t\t\t\t\t<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>\n\t\t\t\t\t\t\t<span itemprop='url'>http://rahul-saini.com/wp-content/uploads/2020/12/newlogo_20201226_125510114-300x70.jpg</span>\n\t\t\t\t\t\t </span>\n\t\t\t\t</span><span class='av-structured-data'  itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"https://schema.org/Person\" ><span itemprop='name'>admin</span></span><span class='av-structured-data'  itemprop=\"datePublished\" datetime=\"2023-06-11T12:46:11+00:00\" >2020-12-27 17:11:20</span><span class='av-structured-data'  itemprop=\"dateModified\" itemtype=\"https://schema.org/dateModified\" >2021-01-04 11:23:40</span><span class='av-structured-data'  itemprop=\"mainEntityOfPage\" itemtype=\"https://schema.org/mainEntityOfPage\" ><span itemprop='name'>JUST FOR YOU</span></span></span></article></div></div></div>\n</div></div></div><!-- close content main div --></div></div><div id='after_section_3'  class='main_color av_default_container_wrap container_wrap sidebar_right' style=' '  ><div class='container' ><div class='template-page content  av-content-small alpha units'><div class='post-entry post-entry-type-page post-entry-3549'><div class='entry-content-wrapper clearfix'>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.8 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>About - Rahul Saini</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://rahul-saini.com/about/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"About - Rahul Saini\" />\n<meta property=\"og:url\" content=\"https://rahul-saini.com/about/\" />\n<meta property=\"og:site_name\" content=\"Rahul Saini\" />\n<meta property=\"article:modified_time\" content=\"2023-06-11T13:34:02+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"2 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://rahul-saini.com/about/\",\"url\":\"https://rahul-saini.com/about/\",\"name\":\"About - Rahul Saini\",\"isPartOf\":{\"@id\":\"https://rahul-saini.com/#website\"},\"datePublished\":\"2023-06-11T12:46:11+00:00\",\"dateModified\":\"2023-06-11T13:34:02+00:00\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://rahul-saini.com/about/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://rahul-saini.com/#website\",\"url\":\"https://rahul-saini.com/\",\"name\":\"Rahul Saini\",\"description\":\"Author, Traveler &amp; Teacher\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://rahul-saini.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "About - Rahul Saini",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://rahul-saini.com/about/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "About - Rahul Saini",
+      "og_url": "https://rahul-saini.com/about/",
+      "og_site_name": "Rahul Saini",
+      "article_modified_time": "2023-06-11T13:34:02+00:00",
+      "twitter_card": "summary_large_image",
+      "twitter_misc": {
+        "Est. reading time": "2 minutes"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://rahul-saini.com/about/",
+            "url": "https://rahul-saini.com/about/",
+            "name": "About - Rahul Saini",
+            "isPartOf": {
+              "@id": "https://rahul-saini.com/#website"
+            },
+            "datePublished": "2023-06-11T12:46:11+00:00",
+            "dateModified": "2023-06-11T13:34:02+00:00",
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://rahul-saini.com/about/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://rahul-saini.com/#website",
+            "url": "https://rahul-saini.com/",
+            "name": "Rahul Saini",
+            "description": "Author, Traveler &amp; Teacher",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://rahul-saini.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-US"
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://rahul-saini.com/wp-json/wp/v2/pages/3536"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://rahul-saini.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://rahul-saini.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://rahul-saini.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://rahul-saini.com/wp-json/wp/v2/comments?post=3536"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 13,
+          "href": "https://rahul-saini.com/wp-json/wp/v2/pages/3536/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 3566,
+          "href": "https://rahul-saini.com/wp-json/wp/v2/pages/3536/revisions/3566"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://rahul-saini.com/wp-json/wp/v2/media?parent=3536"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1010,
+    "date": "2013-04-03T16:05:52",
+    "date_gmt": "2013-04-03T16:05:52",
+    "guid": {
+      "rendered": "http://www.kriesi.at/themes/enfold/?page_id=1010"
+    },
+    "modified": "2023-06-11T12:13:23",
+    "modified_gmt": "2023-06-11T12:13:23",
+    "slug": "blog",
+    "status": "publish",
+    "type": "page",
+    "link": "https://rahul-saini.com/blog/",
+    "title": {
+      "rendered": "Blog"
+    },
+    "content": {
+      "rendered": "<div   data-autoplay=''  data-interval='5'  data-animation='fade'  data-show_slide_delay='90'  class='avia-content-slider avia-content-grid-active avia-content-slider2 avia-content-slider-odd  avia-builder-el-0  avia-builder-el-no-sibling  '  itemscope=\"itemscope\" itemtype=\"https://schema.org/Blog\" ><div class='avia-content-slider-inner'><div class='slide-entry-wrap'><article class='slide-entry flex_column  post-entry post-entry-3376 slide-entry-overview slide-loop-1 slide-parity-odd  av_one_third first real-thumbnail post-format-standard'  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><a href='https://rahul-saini.com/worship-the-queen/' data-rel='slide-2' class='slide-image' title='Worship the Queen?'><img width=\"300\" height=\"150\" src=\"https://rahul-saini.com/wp-content/uploads/2020/12/10007486_10152005156108716_713399141_n.jpg\" class=\"wp-image-3377 avia-img-lazy-loading-3377 attachment-portfolio size-portfolio wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" /></a><div class='slide-content'><header class=\"entry-content-header\"><h3 class='slide-entry-title entry-title '  itemprop=\"headline\" ><a href='https://rahul-saini.com/worship-the-queen/' title='Worship the Queen?'>Worship the Queen?</a></h3><span class=\"av-vertical-delimiter\"></span></header><div class='slide-meta'><div class='slide-meta-comments'><a href='https://rahul-saini.com/worship-the-queen/#respond'>0 Comments</a></div><div class='slide-meta-del'>/</div><time class='slide-meta-time updated'  itemprop=\"datePublished\" datetime=\"2014-09-05T14:04:00+00:00\" >September 5, 2014</time></div><div class='slide-entry-excerpt entry-content'  itemprop=\"text\" >\nAfter a long time I saw a film that blew my mind. I am still…</div></div><footer class=\"entry-footer\"></footer><span class='hidden'>\n\t\t\t\t<span class='av-structured-data'  itemprop=\"image\" itemscope=\"itemscope\" itemtype=\"https://schema.org/ImageObject\" >\n\t\t\t\t\t\t<span itemprop='url'>https://rahul-saini.com/wp-content/uploads/2020/12/10007486_10152005156108716_713399141_n.jpg</span>\n\t\t\t\t\t\t<span itemprop='height'>150</span>\n\t\t\t\t\t\t<span itemprop='width'>300</span>\n\t\t\t\t</span>\n\t\t\t\t<span class='av-structured-data'  itemprop=\"publisher\" itemtype=\"https://schema.org/Organization\" itemscope=\"itemscope\" >\n\t\t\t\t\t\t<span itemprop='name'>admin</span>\n\t\t\t\t\t\t<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>\n\t\t\t\t\t\t\t<span itemprop='url'>http://rahul-saini.com/wp-content/uploads/2020/12/newlogo_20201226_125510114-300x70.jpg</span>\n\t\t\t\t\t\t </span>\n\t\t\t\t</span><span class='av-structured-data'  itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"https://schema.org/Person\" ><span itemprop='name'>admin</span></span><span class='av-structured-data'  itemprop=\"datePublished\" datetime=\"2013-04-03T16:05:52+00:00\" >2014-09-05 14:04:00</span><span class='av-structured-data'  itemprop=\"dateModified\" itemtype=\"https://schema.org/dateModified\" >2020-12-26 14:07:00</span><span class='av-structured-data'  itemprop=\"mainEntityOfPage\" itemtype=\"https://schema.org/mainEntityOfPage\" ><span itemprop='name'>Worship the Queen?</span></span></span></article><article class='slide-entry flex_column  post-entry post-entry-3379 slide-entry-overview slide-loop-2 slide-parity-even  post-entry-last  av_one_third  real-thumbnail post-format-standard'  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><a href='https://rahul-saini.com/thank-god-even-crazy-dreams-come-true/' data-rel='slide-2' class='slide-image' title='Thank God Even Crazy Dreams Come True!'><img width=\"495\" height=\"321\" src=\"https://rahul-saini.com/wp-content/uploads/2020/12/shehnaz-shaikh-845x321-1-495x321.jpg\" class=\"wp-image-3380 avia-img-lazy-loading-3380 attachment-portfolio size-portfolio wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" /></a><div class='slide-content'><header class=\"entry-content-header\"><h3 class='slide-entry-title entry-title '  itemprop=\"headline\" ><a href='https://rahul-saini.com/thank-god-even-crazy-dreams-come-true/' title='Thank God Even Crazy Dreams Come True!'>Thank God Even Crazy Dreams Come True!</a></h3><span class=\"av-vertical-delimiter\"></span></header><div class='slide-meta'><div class='slide-meta-comments'><a href='https://rahul-saini.com/thank-god-even-crazy-dreams-come-true/#respond'>0 Comments</a></div><div class='slide-meta-del'>/</div><time class='slide-meta-time updated'  itemprop=\"datePublished\" datetime=\"2014-09-05T13:15:00+00:00\" >September 5, 2014</time></div><div class='slide-entry-excerpt entry-content'  itemprop=\"text\" >\nThere are some people for whom, we believe, we can only dream…</div></div><footer class=\"entry-footer\"></footer><span class='hidden'>\n\t\t\t\t<span class='av-structured-data'  itemprop=\"image\" itemscope=\"itemscope\" itemtype=\"https://schema.org/ImageObject\" >\n\t\t\t\t\t\t<span itemprop='url'>https://rahul-saini.com/wp-content/uploads/2020/12/shehnaz-shaikh-845x321-1.jpg</span>\n\t\t\t\t\t\t<span itemprop='height'>321</span>\n\t\t\t\t\t\t<span itemprop='width'>845</span>\n\t\t\t\t</span>\n\t\t\t\t<span class='av-structured-data'  itemprop=\"publisher\" itemtype=\"https://schema.org/Organization\" itemscope=\"itemscope\" >\n\t\t\t\t\t\t<span itemprop='name'>admin</span>\n\t\t\t\t\t\t<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>\n\t\t\t\t\t\t\t<span itemprop='url'>http://rahul-saini.com/wp-content/uploads/2020/12/newlogo_20201226_125510114-300x70.jpg</span>\n\t\t\t\t\t\t </span>\n\t\t\t\t</span><span class='av-structured-data'  itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"https://schema.org/Person\" ><span itemprop='name'>admin</span></span><span class='av-structured-data'  itemprop=\"datePublished\" datetime=\"2013-04-03T16:05:52+00:00\" >2014-09-05 13:15:00</span><span class='av-structured-data'  itemprop=\"dateModified\" itemtype=\"https://schema.org/dateModified\" >2020-12-26 14:17:45</span><span class='av-structured-data'  itemprop=\"mainEntityOfPage\" itemtype=\"https://schema.org/mainEntityOfPage\" ><span itemprop='name'>Thank God Even Crazy Dreams Come True!</span></span></span></article></div></div></div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.8 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Blog - Rahul Saini</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://rahul-saini.com/blog/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Blog - Rahul Saini\" />\n<meta property=\"og:url\" content=\"https://rahul-saini.com/blog/\" />\n<meta property=\"og:site_name\" content=\"Rahul Saini\" />\n<meta property=\"article:modified_time\" content=\"2023-06-11T12:13:23+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://rahul-saini.com/blog/\",\"url\":\"https://rahul-saini.com/blog/\",\"name\":\"Blog - Rahul Saini\",\"isPartOf\":{\"@id\":\"https://rahul-saini.com/#website\"},\"datePublished\":\"2013-04-03T16:05:52+00:00\",\"dateModified\":\"2023-06-11T12:13:23+00:00\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://rahul-saini.com/blog/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://rahul-saini.com/#website\",\"url\":\"https://rahul-saini.com/\",\"name\":\"Rahul Saini\",\"description\":\"Author, Traveler &amp; Teacher\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://rahul-saini.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Blog - Rahul Saini",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://rahul-saini.com/blog/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Blog - Rahul Saini",
+      "og_url": "https://rahul-saini.com/blog/",
+      "og_site_name": "Rahul Saini",
+      "article_modified_time": "2023-06-11T12:13:23+00:00",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://rahul-saini.com/blog/",
+            "url": "https://rahul-saini.com/blog/",
+            "name": "Blog - Rahul Saini",
+            "isPartOf": {
+              "@id": "https://rahul-saini.com/#website"
+            },
+            "datePublished": "2013-04-03T16:05:52+00:00",
+            "dateModified": "2023-06-11T12:13:23+00:00",
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://rahul-saini.com/blog/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://rahul-saini.com/#website",
+            "url": "https://rahul-saini.com/",
+            "name": "Rahul Saini",
+            "description": "Author, Traveler &amp; Teacher",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://rahul-saini.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-US"
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://rahul-saini.com/wp-json/wp/v2/pages/1010"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://rahul-saini.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://rahul-saini.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://rahul-saini.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://rahul-saini.com/wp-json/wp/v2/comments?post=1010"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 14,
+          "href": "https://rahul-saini.com/wp-json/wp/v2/pages/1010/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 3534,
+          "href": "https://rahul-saini.com/wp-json/wp/v2/pages/1010/revisions/3534"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://rahul-saini.com/wp-json/wp/v2/media?parent=1010"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 734,
+    "date": "2013-04-01T15:37:54",
+    "date_gmt": "2013-04-01T15:37:54",
+    "guid": {
+      "rendered": "http://www.kriesi.at/themes/enfold/?page_id=734"
+    },
+    "modified": "2026-03-03T13:27:11",
+    "modified_gmt": "2026-03-03T13:27:11",
+    "slug": "homepage",
+    "status": "publish",
+    "type": "page",
+    "link": "https://rahul-saini.com/",
+    "title": {
+      "rendered": "Homepage"
+    },
+    "content": {
+      "rendered": "<p><div id='layer_slider_1'  class='avia-layerslider main_color avia-shadow  avia-builder-el-0  el_before_av_section  avia-builder-el-first  container_wrap sidebar_right' style='  height: 471px;' ></div><br />\n<div class=\"flex_column av_one_third  flex_column_div first  \" ><article  class=\"iconbox iconbox_left    \"  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class=\"iconbox_content\"><header class=\"entry-content-header\"><div class=\"iconbox_icon heading-color\" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  ></div><h3 class='iconbox_content_title  '  itemprop=\"headline\"  >Checkit!</h3></header><div class='iconbox_content_container  '  itemprop=\"text\"  ><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br />\nAenean <strong>commodo ligula</strong> eget dolor. Aenean massa. Cum sociis</p>\n</div></div><footer class=\"entry-footer\"></footer></article></div><br />\n<div class=\"flex_column av_one_third  flex_column_div   \" ><article  class=\"iconbox iconbox_left    \"  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class=\"iconbox_content\"><header class=\"entry-content-header\"><div class=\"iconbox_icon heading-color\" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  ></div><h3 class='iconbox_content_title  '  itemprop=\"headline\"  >Green Power</h3></header><div class='iconbox_content_container  '  itemprop=\"text\"  ><p>Aenean massa. Cum sociis natoque penatibus et magnis dis <strong>parturient montes</strong>, nascetur ridiculus mus. Lorem ipsum dolor sit amet</p>\n</div></div><footer class=\"entry-footer\"></footer></article></div><br />\n<div class=\"flex_column av_one_third  flex_column_div   \" ><article  class=\"iconbox iconbox_left    \"  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class=\"iconbox_content\"><header class=\"entry-content-header\"><div class=\"iconbox_icon heading-color\" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  ></div><h3 class='iconbox_content_title  '  itemprop=\"headline\"  >Recycle that</h3></header><div class='iconbox_content_container  '  itemprop=\"text\"  ><p>Aenean commodo ligula eget dolor. Aenean massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque <strong>sadfsadfas</strong></p>\n</div></div><footer class=\"entry-footer\"></footer></article></div><br />\n<div id='av_section_4'  class='avia-section alternate_color avia-section-large avia-shadow  avia-bg-style-scroll  avia-builder-el-1  el_after_av_layerslider  el_before_av_section   container_wrap sidebar_right' style=' '  ><div class='container' ><div class='template-page content  av-content-small alpha units'><div class='post-entry post-entry-type-page post-entry-3549'><div class='entry-content-wrapper clearfix'>\n<div class=\"flex_column av_one_full  flex_column_div first  \" ><section class=\"av_textblock_section \"  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class='avia_textblock  '   itemprop=\"text\" ><h2 style=\"text-align: center;\">Crazy cool usability features</h2>\n</div></section><br />\n<div   class='hr hr-short hr-center  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div><br />\n<section class=\"av_textblock_section \"  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class='avia_textblock  '   itemprop=\"text\" ><p style=\"text-align: center;\">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. <strong>Aenean</strong> commodo ligula eget dolor.<br />\nan massa. Cum <strong>sociis natoque</strong> penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>\n</div></section><br />\n<div  style='height:70px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div><br />\n<div  id=\"av-sc-portfolio-1\"  class=' grid-sort-container isotope   no_margin-container with-title-container grid-total-odd grid-col-3 grid-links-' data-portfolio-id='1'><div data-ajax-id='46' class=' grid-entry flex_column isotope-item all_sort no_margin post-entry post-entry-46 grid-entry-overview grid-loop-1 grid-parity-odd  css_sort html_sort psd_sort  av_one_third first default_av_fullwidth '><article class='main_color inner-entry'  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><a href='https://rahul-saini.com/portfolio-item/slider-two-third/' title='Single Portfolio: 2/3 Slider'  data-rel='grid-1' class='grid-image avia-hover-fx'> <img width=\"495\" height=\"400\" src=\"https://rahul-saini.com/wp-content/uploads/2012/04/1-495x400.jpg\" class=\"wp-image-313 avia-img-lazy-loading-not-313 attachment-portfolio size-portfolio wp-post-image\" alt=\"\" decoding=\"async\" /></a><div class='grid-content'><div class='avia-arrow'></div><header class=\"entry-content-header\"><h3 class='grid-entry-title entry-title '  itemprop=\"headline\" ><a href='https://rahul-saini.com/portfolio-item/slider-two-third/' title='Single Portfolio: 2/3 Slider'>Single Portfolio: 2/3 Slider</a></h3></header></div><footer class=\"entry-footer\"></footer></article></div><div data-ajax-id='44' class=' grid-entry flex_column isotope-item all_sort no_margin post-entry post-entry-44 grid-entry-overview grid-loop-2 grid-parity-even  css_sort psd_sort  av_one_third  default_av_fullwidth '><article class='main_color inner-entry'  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><a href='https://rahul-saini.com/portfolio-item/lorem-ipsum/' title='Single Portfolio: 2/3 Gallery'  data-rel='grid-1' class='grid-image avia-hover-fx'> <img width=\"495\" height=\"400\" src=\"https://rahul-saini.com/wp-content/uploads/2012/04/013-495x400.jpg\" class=\"wp-image-314 avia-img-lazy-loading-not-314 attachment-portfolio size-portfolio wp-post-image\" alt=\"\" decoding=\"async\" /></a><div class='grid-content'><div class='avia-arrow'></div><header class=\"entry-content-header\"><h3 class='grid-entry-title entry-title '  itemprop=\"headline\" ><a href='https://rahul-saini.com/portfolio-item/lorem-ipsum/' title='Single Portfolio: 2/3 Gallery'>Single Portfolio: 2/3 Gallery</a></h3></header></div><footer class=\"entry-footer\"></footer></article></div><div data-ajax-id='41' class=' grid-entry flex_column isotope-item all_sort no_margin post-entry post-entry-41 grid-entry-overview grid-loop-3 grid-parity-odd  post-entry-last  css_sort html_sort  av_one_third  default_av_fullwidth '><article class='main_color inner-entry'  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><a href='https://rahul-saini.com/portfolio-item/portfolio-big/' title='Single Portfolio: Big Slider'  data-rel='grid-1' class='grid-image avia-hover-fx'> <img width=\"495\" height=\"400\" src=\"https://rahul-saini.com/wp-content/uploads/2012/04/014-495x400.jpg\" class=\"wp-image-315 avia-img-lazy-loading-not-315 attachment-portfolio size-portfolio wp-post-image\" alt=\"\" decoding=\"async\" /></a><div class='grid-content'><div class='avia-arrow'></div><header class=\"entry-content-header\"><h3 class='grid-entry-title entry-title '  itemprop=\"headline\" ><a href='https://rahul-saini.com/portfolio-item/portfolio-big/' title='Single Portfolio: Big Slider'>Single Portfolio: Big Slider</a></h3></header></div><footer class=\"entry-footer\"></footer></article></div></div><br />\n<div   class='hr hr-short hr-center  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div><br />\n<section class=\"av_textblock_section \"  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class='avia_textblock  '   itemprop=\"text\" ><p style=\"text-align: center;\"><a title=\"Portfolio 4 Columns\" href=\"#\">View the Full Portfolio here</a></p>\n</div></section><br />\n<div   class='hr hr-short hr-center  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div></p></div>\n<br />\n</div></div></div><!-- close content main div --></div></div><div id='av_section_5'  class='avia-section main_color avia-section-large avia-no-shadow  avia-bg-style-scroll   container_wrap sidebar_right' style=' '  ><div class='container' ><div class='template-page content  av-content-small alpha units'><div class='post-entry post-entry-type-page post-entry-3549'><div class='entry-content-wrapper clearfix'>\n<div class=\"flex_column av_one_half  flex_column_div first  \" ><div  class='avia-gallery  avia-gallery-1 avia_lazyload avia-gallery-animate avia_animate_when_visible '  itemprop=\"image\" itemscope=\"itemscope\" itemtype=\"https://schema.org/ImageObject\" ><a class='avia-gallery-big fakeLightbox lightbox avia-gallery-big-crop-thumb ' href='https://rahul-saini.com/wp-content/uploads/2012/04/2.jpg'  data-onclick='1' title='' ><span class='avia-gallery-big-inner'  itemprop=\"thumbnailUrl\" ><img decoding=\"async\" class=\"wp-image-316 avia-img-lazy-loading-not-316\"  width=\"495\" height=\"400\" src=\"https://rahul-saini.com/wp-content/uploads/2012/04/2-495x400.jpg\" title='2' alt='' /></span></a><div class='avia-gallery-thumb'> <a href='https://rahul-saini.com/wp-content/uploads/2012/04/2.jpg' data-rel='gallery-1' data-prev-img='https://rahul-saini.com/wp-content/uploads/2012/04/2-495x400.jpg' class='first_thumb lightbox ' data-onclick='1' title=''  itemprop=\"thumbnailUrl\"  ><img decoding=\"async\" class=\"wp-image-316 avia-img-lazy-loading-not-316\"   src=\"https://rahul-saini.com/wp-content/uploads/2012/04/2-80x80.jpg\" width=\"80\" height=\"80\"  title='2' alt='' srcset=\"https://rahul-saini.com/wp-content/uploads/2012/04/2-80x80.jpg 80w, https://rahul-saini.com/wp-content/uploads/2012/04/2-36x36.jpg 36w, https://rahul-saini.com/wp-content/uploads/2012/04/2-180x180.jpg 180w\" sizes=\"(max-width: 80px) 100vw, 80px\" /></a> <a href='https://rahul-saini.com/wp-content/uploads/2012/04/014.jpg' data-rel='gallery-1' data-prev-img='https://rahul-saini.com/wp-content/uploads/2012/04/014-495x400.jpg' class='lightbox ' data-onclick='2' title=''  itemprop=\"thumbnailUrl\"  ><img decoding=\"async\" class=\"wp-image-315 avia-img-lazy-loading-not-315\"   src=\"https://rahul-saini.com/wp-content/uploads/2012/04/014-80x80.jpg\" width=\"80\" height=\"80\"  title='014' alt='' srcset=\"https://rahul-saini.com/wp-content/uploads/2012/04/014-80x80.jpg 80w, https://rahul-saini.com/wp-content/uploads/2012/04/014-36x36.jpg 36w, https://rahul-saini.com/wp-content/uploads/2012/04/014-180x180.jpg 180w\" sizes=\"(max-width: 80px) 100vw, 80px\" /></a> <a href='https://rahul-saini.com/wp-content/uploads/2012/04/013.jpg' data-rel='gallery-1' data-prev-img='https://rahul-saini.com/wp-content/uploads/2012/04/013-495x400.jpg' class='lightbox ' data-onclick='3' title=''  itemprop=\"thumbnailUrl\"  ><img decoding=\"async\" class=\"wp-image-314 avia-img-lazy-loading-not-314\"   src=\"https://rahul-saini.com/wp-content/uploads/2012/04/013-80x80.jpg\" width=\"80\" height=\"80\"  title='013' alt='' srcset=\"https://rahul-saini.com/wp-content/uploads/2012/04/013-80x80.jpg 80w, https://rahul-saini.com/wp-content/uploads/2012/04/013-36x36.jpg 36w, https://rahul-saini.com/wp-content/uploads/2012/04/013-180x180.jpg 180w\" sizes=\"(max-width: 80px) 100vw, 80px\" /></a> <a href='https://rahul-saini.com/wp-content/uploads/2012/04/1.jpg' data-rel='gallery-1' data-prev-img='https://rahul-saini.com/wp-content/uploads/2012/04/1-495x400.jpg' class='lightbox ' data-onclick='4' title=''  itemprop=\"thumbnailUrl\"  ><img decoding=\"async\" class=\"wp-image-313 avia-img-lazy-loading-not-313\"   src=\"https://rahul-saini.com/wp-content/uploads/2012/04/1-80x80.jpg\" width=\"80\" height=\"80\"  title='1' alt='' srcset=\"https://rahul-saini.com/wp-content/uploads/2012/04/1-80x80.jpg 80w, https://rahul-saini.com/wp-content/uploads/2012/04/1-36x36.jpg 36w, https://rahul-saini.com/wp-content/uploads/2012/04/1-180x180.jpg 180w\" sizes=\"(max-width: 80px) 100vw, 80px\" /></a></div></div></div><div class=\"flex_column av_one_half  flex_column_div   \" ><section class=\"av_textblock_section \"  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class='avia_textblock  '   itemprop=\"text\" ><h2>Any Layout imaginable</h2>\n</div></section><br />\n<div   class='hr hr-short hr-left  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div><br />\n<section class=\"av_textblock_section \"  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class='avia_textblock  '   itemprop=\"text\" ><p>Lorem ipsum dolor sit amet, consectetuer <strong>adipiscing elit</strong>. Aenean commodo ligula eget dolor. Aenean massa.</p>\n<ul>\n<li>Nulla consequat massa quis enim.</li>\n<li>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</li>\n<li>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.</li>\n<li>Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</li>\n<li>Aenean <strong>vulputate</strong> eleifend tellus.</li>\n</ul>\n</div></section><br />\n<div   class='hr hr-short hr-left  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div><br />\n<div  class='avia-button-wrap avia-button-left ' ><a href=''  class='avia-button  avia-color-theme-color-subtle   avia-icon_select-yes-left-icon avia-size-large avia-position-left '   ><span class='avia_button_icon avia_button_icon_left ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class='avia_iconbox_title' >Learn more...</span></a></div></p></div>\n</div></div></div><!-- close content main div --></div></div><div id='after_section_5'  class='main_color av_default_container_wrap container_wrap sidebar_right' style=' '  ><div class='container' ><div class='template-page content  av-content-small alpha units'><div class='post-entry post-entry-type-page post-entry-3549'><div class='entry-content-wrapper clearfix'><br />\n</div></div></div><!-- close content main div --></div></div><div id='av_section_6'  class='avia-section alternate_color avia-section-large avia-shadow  avia-bg-style-scroll   container_wrap sidebar_right' style=' '  ><div class='container' ><div class='template-page content  av-content-small alpha units'><div class='post-entry post-entry-type-page post-entry-3549'><div class='entry-content-wrapper clearfix'>\n<div class=\"flex_column av_one_half  flex_column_div first  \" ><section class=\"av_textblock_section \"  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class='avia_textblock  '   itemprop=\"text\" ><h2 style=\"text-align: right;\">About Us</h2>\n</div></section><br />\n<div   class='hr hr-short hr-right  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div><br />\n<section class=\"av_textblock_section \"  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class='avia_textblock  '   itemprop=\"text\" ><p style=\"text-align: right;\">Lorem ipsum dolor sit amet, consectetuer <strong>adipiscing elit</strong>. Aenean commodo ligula eget dolor. Aenean massa.</p>\n<p style=\"text-align: right;\">Nulla consequat massa quis enim.<br />\nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.<br />\nIn enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.<br />\nInteger tincidunt. Cras dapibus. Vivamus elementum semper nisi.<br />\nAenean <strong style=\"text-align: right;\">vulputate</strong> eleifend tellus.</p>\n</div></section><br />\n<div   class='hr hr-short hr-right  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div><br />\n<div  class='avia-button-wrap avia-button-right ' ><a href=''  class='avia-button  avia-color-theme-color-subtle   avia-icon_select-yes-left-icon avia-size-large avia-position-right '   ><span class='avia_button_icon avia_button_icon_left ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class='avia_iconbox_title' >Check out our Team</span></a></div></p></div><div class=\"flex_column av_one_half  flex_column_div   \" ><div  class='avia-icon-list-container  '><ul class='avia-icon-list avia-icon-list-left av-iconlist-big avia_animate_when_almost_visible avia-iconlist-animate'>\n<li><div  class='iconlist_icon  avia-font-'><span class='iconlist-char ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div><article class=\"article-icon-entry \"  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class='iconlist_content_wrap'><header class=\"entry-content-header\"><h4 class='av_iconlist_title iconlist_title   '  itemprop=\"headline\"  >Crafted with love</h4></header><div class='iconlist_content  '  itemprop=\"text\"  ><p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in.</p>\n</div></div><footer class=\"entry-footer\"></footer></article><div class='iconlist-timeline'></div></li>\n<li><div  class='iconlist_icon  avia-font-'><span class='iconlist-char ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div><article class=\"article-icon-entry \"  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class='iconlist_content_wrap'><header class=\"entry-content-header\"><h4 class='av_iconlist_title iconlist_title   '  itemprop=\"headline\"  >Melodical by nature</h4></header><div class='iconlist_content  '  itemprop=\"text\"  ><p>Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.</p>\n</div></div><footer class=\"entry-footer\"></footer></article><div class='iconlist-timeline'></div></li>\n<li><div  class='iconlist_icon  avia-font-'><span class='iconlist-char ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div><article class=\"article-icon-entry \"  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class='iconlist_content_wrap'><header class=\"entry-content-header\"><h4 class='av_iconlist_title iconlist_title   '  itemprop=\"headline\"  >Lightning Fast</h4></header><div class='iconlist_content  '  itemprop=\"text\"  ><p>Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero.</p>\n</div></div><footer class=\"entry-footer\"></footer></article><div class='iconlist-timeline'></div></li>\n<li><div  class='iconlist_icon  avia-font-'><span class='iconlist-char ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div><article class=\"article-icon-entry \"  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class='iconlist_content_wrap'><header class=\"entry-content-header\"><h4 class='av_iconlist_title iconlist_title   '  itemprop=\"headline\"  >Freaky Flags</h4></header><div class='iconlist_content  '  itemprop=\"text\"  ><p>Nullam quis ante. Etiam sit <strong>amet orci eget</strong> eros faucibus tincidunt. Donec vitae sapien ut libero venenatis faucibus.</p>\n</div></div><footer class=\"entry-footer\"></footer></article><div class='iconlist-timeline'></div></li>\n</ul></div></div>\n</div></div></div><!-- close content main div --></div></div><div id='after_section_6'  class='main_color av_default_container_wrap container_wrap sidebar_right' style=' '  ><div class='container' ><div class='template-page content  av-content-small alpha units'><div class='post-entry post-entry-type-page post-entry-3549'><div class='entry-content-wrapper clearfix'><br />\n</div></div></div><!-- close content main div --></div></div><div id='av_section_7'  class='avia-section main_color avia-section-default avia-no-shadow  avia-bg-style-scroll   container_wrap sidebar_right' style=' '  ><div class='container' ><div class='template-page content  av-content-small alpha units'><div class='post-entry post-entry-type-page post-entry-3549'><div class='entry-content-wrapper clearfix'>\n<div class=\"flex_column av_one_half  flex_column_div first  \" ><img width=\"1000\" height=\"600\" src=\"https://rahul-saini.com/wp-content/uploads/2011/12/imac_big_demo.png\" class=\"avia-img-lazy-loading-not-745 avia_image avia_animated_image avia_animate_when_almost_visible left-to-right av-styling-  avia-align-right \" alt=\"\" decoding=\"async\" srcset=\"https://rahul-saini.com/wp-content/uploads/2011/12/imac_big_demo.png 1000w, https://rahul-saini.com/wp-content/uploads/2011/12/imac_big_demo-300x180.png 300w, https://rahul-saini.com/wp-content/uploads/2011/12/imac_big_demo-768x461.png 768w, https://rahul-saini.com/wp-content/uploads/2011/12/imac_big_demo-705x423.png 705w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></div><div class=\"flex_column av_one_half  flex_column_div   \" ><section class=\"av_textblock_section \"  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class='avia_textblock  '   itemprop=\"text\" ><h2>Mobile Ready</h2>\n</div></section><br />\n<div   class='hr hr-short hr-left  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div><br />\n<section class=\"av_textblock_section \"  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class='avia_textblock  '   itemprop=\"text\" ><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.<br />\nNulla consequat massa quis enim.Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.Aenean vulputate eleifend tellus.</p>\n</div></section><br />\n<div   class='hr hr-short hr-left  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div><br />\n<div  class='avia-button-wrap avia-button-left ' ><a href=''  class='avia-button  avia-color-theme-color-subtle   avia-icon_select-yes-left-icon avia-size-large avia-position-left '   ><span class='avia_button_icon avia_button_icon_left ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class='avia_iconbox_title' >Mobile Features</span></a></div></p></div>\n</div></div></div><!-- close content main div --></div></div><div id='after_section_7'  class='main_color av_default_container_wrap container_wrap sidebar_right' style=' '  ><div class='container' ><div class='template-page content  av-content-small alpha units'><div class='post-entry post-entry-type-page post-entry-3549'><div class='entry-content-wrapper clearfix'><br />\n</div></div></div><!-- close content main div --></div></div><div id='av_section_8'  class='avia-section alternate_color avia-section-large avia-shadow  avia-bg-style-scroll   container_wrap sidebar_right' style=' '  ><div class='container' ><div class='template-page content  av-content-small alpha units'><div class='post-entry post-entry-type-page post-entry-3549'><div class='entry-content-wrapper clearfix'>\n<section class=\"av_textblock_section \"  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class='avia_textblock  '   itemprop=\"text\" ><h2 style=\"text-align: center;\">What others say about us</h2>\n</div></section>\n<div   class='hr hr-short hr-center  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>\n<div   data-autoplay='1'  data-interval='5'  data-animation='fade'  data-hoverpause='1'  class='avia-testimonial-wrapper avia-grid-testimonials avia-grid-2-testimonials avia_animate_when_almost_visible   '>\n<section class ='avia-testimonial-row'><div class='avia-testimonial av_one_half flex_column no_margin avia-testimonial-row-1 avia-first-testimonial' ><div class='avia-testimonial_inner'  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class='avia-testimonial-image'  itemprop=\"image\"  style='background-image:url(https://rahul-saini.com/wp-content/uploads/2012/04/014-180x180.jpg);'></div><div class='avia-testimonial-content '  ><div class='avia-testimonial-markup-entry-content'  itemprop=\"text\" ><p>Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.</p>\n</div></div><div class='avia-testimonial-meta'><div class='avia-testimonial-arrow-wrap'><div class='avia-arrow'></div></div><div class='avia-testimonial-meta-mini'  itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"https://schema.org/Person\" ><strong  class='avia-testimonial-name'    itemprop=\"name\" >The Man</strong><span  class='avia-testimonial-subtitle '    itemprop=\"jobTitle\" >CEO</span><span class='hidden avia-testimonial-markup-link'  itemprop=\"url\" >http://www.wikipedia.com</span> &ndash; <a class='aviablank avia-testimonial-link' href='http://www.wikipedia.com' rel=’noopener noreferrer’>WikiTravel</a></div></div></div></div>\n<div class='avia-testimonial av_one_half flex_column no_margin avia-testimonial-row-1 avia-last-testimonial' ><div class='avia-testimonial_inner'  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class='avia-testimonial-image'  itemprop=\"image\"  style='background-image:url(https://rahul-saini.com/wp-content/uploads/2012/04/014-180x180.jpg);'></div><div class='avia-testimonial-content '  ><div class='avia-testimonial-markup-entry-content'  itemprop=\"text\" ><p>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.</p>\n</div></div><div class='avia-testimonial-meta'><div class='avia-testimonial-arrow-wrap'><div class='avia-arrow'></div></div><div class='avia-testimonial-meta-mini'  itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"https://schema.org/Person\" ><strong  class='avia-testimonial-name'    itemprop=\"name\" >Anna Vandana</strong><span  class='avia-testimonial-subtitle '    itemprop=\"jobTitle\" >CEO</span><span class='hidden avia-testimonial-markup-link'  itemprop=\"url\" >http://www.wikipedia.com</span> &ndash; <a class='aviablank avia-testimonial-link' href='http://www.wikipedia.com' rel=’noopener noreferrer’>Media Wiki</a></div></div></div></div></section>\n<section class ='avia-testimonial-row'><div class='avia-testimonial av_one_half flex_column no_margin avia-testimonial-row-2 avia-first-testimonial' ><div class='avia-testimonial_inner'  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class='avia-testimonial-image'  itemprop=\"image\"  style='background-image:url(https://rahul-saini.com/wp-content/uploads/2012/04/014-180x180.jpg);'></div><div class='avia-testimonial-content '  ><div class='avia-testimonial-markup-entry-content'  itemprop=\"text\" ><p>Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>\n</div></div><div class='avia-testimonial-meta'><div class='avia-testimonial-arrow-wrap'><div class='avia-arrow'></div></div><div class='avia-testimonial-meta-mini'  itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"https://schema.org/Person\" ><strong  class='avia-testimonial-name'    itemprop=\"name\" >Maxi Milli</strong><span  class='avia-testimonial-subtitle '    itemprop=\"jobTitle\" >CEO</span><span class='hidden avia-testimonial-markup-link'  itemprop=\"url\" >http://www.wikipedia.com</span> &ndash; <a class='aviablank avia-testimonial-link' href='http://www.wikipedia.com' rel=’noopener noreferrer’>Max Mobilcom</a></div></div></div></div>\n<div class='avia-testimonial av_one_half flex_column no_margin avia-testimonial-row-2 avia-last-testimonial' ><div class='avia-testimonial_inner'  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" ><div class='avia-testimonial-image'  itemprop=\"image\"  style='background-image:url(https://rahul-saini.com/wp-content/uploads/2012/04/014-180x180.jpg);'></div><div class='avia-testimonial-content '  ><div class='avia-testimonial-markup-entry-content'  itemprop=\"text\" ><p>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.</p>\n</div></div><div class='avia-testimonial-meta'><div class='avia-testimonial-arrow-wrap'><div class='avia-arrow'></div></div><div class='avia-testimonial-meta-mini'  itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"https://schema.org/Person\" ><strong  class='avia-testimonial-name'    itemprop=\"name\" >Dr. Dosist</strong><span  class='avia-testimonial-subtitle '    itemprop=\"jobTitle\" >CEO</span><span class='hidden avia-testimonial-markup-link'  itemprop=\"url\" >http://www.wikipedia.com</span> &ndash; <a class='aviablank avia-testimonial-link' href='http://www.wikipedia.com' rel=’noopener noreferrer’>Doom Inc</a></div></div></div></div></section>\n</div>\n</div></div></div><!-- close content main div --></div></div><div id='after_section_8'  class='main_color av_default_container_wrap container_wrap sidebar_right' style=' '  ><div class='container' ><div class='template-page content  av-content-small alpha units'><div class='post-entry post-entry-type-page post-entry-3549'><div class='entry-content-wrapper clearfix'><br />\n</div></div></div><!-- close content main div --></div></div><div id='full_slider_1'  class='avia-fullwidth-slider main_color avia-shadow    container_wrap sidebar_right' style=' '  ><div   data-size='no scaling'  data-lightbox_size='large'  data-animation='slide'  data-conditional_play=''  data-ids='745,745'  data-video_counter='0'  data-autoplay='false'  data-bg_slider='false'  data-slide_height=''  data-handle='av_slideshow_full'  data-interval='5'  data-class=' image_no_stretch'  data-el_id=''  data-css_id=''  data-scroll_down=''  data-control_layout='av-control-default'  data-custom_markup=''  data-perma_caption=''  data-autoplay_stopper=''  data-image_attachment=''  data-min_height='0px'  data-lazy_loading='disabled'  data-src=''  data-position='center center'  data-repeat='stretch'  data-attach='scroll'  data-stretch='image_no_stretch'  class='avia-slideshow avia-slideshow-1  av-control-default av-default-height-applied avia-slideshow-no scaling av_slideshow_full  image_no_stretch avia-slide-slider '  itemprop=\"image\" itemscope=\"itemscope\" itemtype=\"https://schema.org/ImageObject\" ><ul class='avia-slideshow-inner ' style='padding-bottom: 60%;' ><li  class=' slide-1 ' ><div data-rel='slideshow-1' class='avia-slide-wrap '   ><img decoding=\"async\" class=\"wp-image-745 avia-img-lazy-loading-not-745\"  src=\"https://rahul-saini.com/wp-content/uploads/2011/12/imac_big_demo.png\" width=\"1000\" height=\"600\" title='imac_big_demo' alt=''  itemprop=\"thumbnailUrl\" srcset=\"https://rahul-saini.com/wp-content/uploads/2011/12/imac_big_demo.png 1000w, https://rahul-saini.com/wp-content/uploads/2011/12/imac_big_demo-300x180.png 300w, https://rahul-saini.com/wp-content/uploads/2011/12/imac_big_demo-768x461.png 768w, https://rahul-saini.com/wp-content/uploads/2011/12/imac_big_demo-705x423.png 705w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></div></li><li  class=' slide-2 ' ><div data-rel='slideshow-1' class='avia-slide-wrap '   ><img decoding=\"async\" class=\"wp-image-745 avia-img-lazy-loading-not-745\"  src=\"https://rahul-saini.com/wp-content/uploads/2011/12/imac_big_demo.png\" width=\"1000\" height=\"600\" title='imac_big_demo' alt=''  itemprop=\"thumbnailUrl\" srcset=\"https://rahul-saini.com/wp-content/uploads/2011/12/imac_big_demo.png 1000w, https://rahul-saini.com/wp-content/uploads/2011/12/imac_big_demo-300x180.png 300w, https://rahul-saini.com/wp-content/uploads/2011/12/imac_big_demo-768x461.png 768w, https://rahul-saini.com/wp-content/uploads/2011/12/imac_big_demo-705x423.png 705w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></div></li></ul><div class='avia-slideshow-arrows avia-slideshow-controls'><a href='#prev' class='prev-slide' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'>Previous</a><a href='#next' class='next-slide' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'>Next</a></div><div class='avia-slideshow-dots avia-slideshow-controls'><a href='#1' class='goto-slide active' >1</a><a href='#2' class='goto-slide ' >2</a></div></div></div></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This is a Page excerpt. It will be displayed for search results</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.8 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Homepage - Rahul Saini</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://rahul-saini.com/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Homepage - Rahul Saini\" />\n<meta property=\"og:description\" content=\"This is a Page excerpt. It will be displayed for search results\" />\n<meta property=\"og:url\" content=\"https://rahul-saini.com/\" />\n<meta property=\"og:site_name\" content=\"Rahul Saini\" />\n<meta property=\"article:modified_time\" content=\"2026-03-03T13:27:11+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"4 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://rahul-saini.com/\",\"url\":\"https://rahul-saini.com/\",\"name\":\"Homepage - Rahul Saini\",\"isPartOf\":{\"@id\":\"https://rahul-saini.com/#website\"},\"datePublished\":\"2013-04-01T15:37:54+00:00\",\"dateModified\":\"2026-03-03T13:27:11+00:00\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://rahul-saini.com/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://rahul-saini.com/#website\",\"url\":\"https://rahul-saini.com/\",\"name\":\"Rahul Saini\",\"description\":\"Author, Traveler &amp; Teacher\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://rahul-saini.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Homepage - Rahul Saini",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://rahul-saini.com/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Homepage - Rahul Saini",
+      "og_description": "This is a Page excerpt. It will be displayed for search results",
+      "og_url": "https://rahul-saini.com/",
+      "og_site_name": "Rahul Saini",
+      "article_modified_time": "2026-03-03T13:27:11+00:00",
+      "twitter_card": "summary_large_image",
+      "twitter_misc": {
+        "Est. reading time": "4 minutes"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://rahul-saini.com/",
+            "url": "https://rahul-saini.com/",
+            "name": "Homepage - Rahul Saini",
+            "isPartOf": {
+              "@id": "https://rahul-saini.com/#website"
+            },
+            "datePublished": "2013-04-01T15:37:54+00:00",
+            "dateModified": "2026-03-03T13:27:11+00:00",
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://rahul-saini.com/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://rahul-saini.com/#website",
+            "url": "https://rahul-saini.com/",
+            "name": "Rahul Saini",
+            "description": "Author, Traveler &amp; Teacher",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://rahul-saini.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-US"
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://rahul-saini.com/wp-json/wp/v2/pages/734"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://rahul-saini.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://rahul-saini.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://rahul-saini.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://rahul-saini.com/wp-json/wp/v2/comments?post=734"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://rahul-saini.com/wp-json/wp/v2/pages/734/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 3340,
+          "href": "https://rahul-saini.com/wp-json/wp/v2/pages/734/revisions/3340"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://rahul-saini.com/wp-json/wp/v2/media?parent=734"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

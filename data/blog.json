@@ -1,0 +1,55 @@
+[
+  {
+    "id": "worship-the-queen",
+    "slug": "worship-the-queen",
+    "title": "Worship the Queen?",
+    "category": "Film & Life",
+    "date": "September 5, 2014",
+    "image": "/images/blog/blog-01.png",
+    "excerpt": "After a long time I saw a film that blew my mind. Reflections on freedom, traveling the world, and breaking Indian societal clichés.",
+    "readingTime": "5 min read",
+    "content": [
+      "After a long time I saw a film that blew my mind. I am still to figure out whether I liked the film so much because I was in a state of semi-depression or the film is exceptionally good but nonetheless, I loved the film.",
+      "The film breaks away from all the \"Indian\" ideas and impositions that I have never agreed with — 1) Your life ends and you are supposed to be ashamed of yourself if your wedding gets cancelled, 2) Its only \"hippies\" who want to go out, travel and see the world, 3) Don't follow everything your heart says.",
+      "Contrary to all beliefs, the protagonist of the film enjoys her life, travels to see the world, follows what her heart says and still keeps her values and ethics intact! The writing is flawless and direction is magical."
+    ],
+    "published": true,
+    "featured": true,
+    "order": 0
+  },
+  {
+    "id": "thank-god-even-crazy-dreams-come-true",
+    "slug": "thank-god-even-crazy-dreams-come-true",
+    "title": "Thank God Even Crazy Dreams Come True!",
+    "category": "Journal",
+    "date": "September 5, 2014",
+    "image": "/images/blog/blog-02.png",
+    "excerpt": "There are some people for whom we believe we can only dream. A personal memory of meeting a childhood icon.",
+    "readingTime": "4 min read",
+    "content": [
+      "There are some people for whom, we believe, we can only dream about. They seem so perfect and distant that we feel we can never really get in touch with them. But as strange as it may be, at times, such dreams come true.",
+      "If you were born around the 1980s, you must have heard of Shehnaz Sheikh. As a kid, I had grown up watching and admiring her TV shows. Unexpectedly, I met her relative at an event in Jaipur and sent her a copy of Paperback Dreams.",
+      "And yesterday, I received an email from Shehnaz Sheikh herself thanking me for the book! Who says crazy dreams do not come true!"
+    ],
+    "published": true,
+    "featured": false,
+    "order": 1
+  },
+  {
+    "id": "on-writing-slowly",
+    "slug": "on-writing-slowly",
+    "title": "On Writing Slowly",
+    "category": "Craft",
+    "date": "March 12, 2025",
+    "image": "/images/blog/blog-03.png",
+    "excerpt": "Notes on why the slowest sentences are often the ones worth keeping.",
+    "readingTime": "5 min read",
+    "content": [
+      "Good fiction takes time to mature. When writing a manuscript, patience is often the most vital tool an author possesses.",
+      "Refining character motivation and pacing requires stepping back and looking at the structure as a whole."
+    ],
+    "published": true,
+    "featured": false,
+    "order": 2
+  }
+]

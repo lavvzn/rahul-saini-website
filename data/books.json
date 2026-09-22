@@ -1,0 +1,132 @@
+[
+  {
+    "id": "love-to-hurt-you",
+    "slug": "love-to-hurt-you",
+    "title": "Love to Hurt You",
+    "year": "2021",
+    "cover": "/images/books/book-01.png",
+    "shortDescription": "She likes to hurt. He likes to kill. Decadent, dark and gripping, Love to Hurt You is bestselling author Rahul Saini's most surprising novel yet.",
+    "description": [
+      "She likes to hurt. He likes to kill. They say everyone wants love and happiness, but what if that is not true?",
+      "\"Everyone is entitled to one true love in life. My true love is money and fame.\" — Garun",
+      "\"We had made a promise. You said we would be together forever. And you left me alone here.\" — Maya",
+      "Decadent, dark and gripping, Love to Hurt You is bestselling author Rahul Saini's most surprising novel yet. A story that forces you to think what impact all the dark content in entertainment can have on you!"
+    ],
+    "publisher": "Penguin Random House India",
+    "isbn": "978-0143450917",
+    "pages": "280",
+    "language": "English",
+    "price": "₹299",
+    "availability": "In Stock",
+    "published": true,
+    "featured": true,
+    "order": 0
+  },
+  {
+    "id": "the-orange-hangover",
+    "slug": "the-orange-hangover",
+    "title": "The Orange Hangover",
+    "year": "2020",
+    "cover": "/images/books/book-02.png",
+    "shortDescription": "A young architect's lavish life goes haywire in his hometown when he gets tied to a crime. A story about personal values and second chances.",
+    "description": [
+      "Rishabh is a young architect who is leading a very lucky and lavish life. He has a great job, a fabulous lifestyle, the coolest friends and a lovely girlfriend. However, all of this goes for a toss and he has to pack his bags and go back to his small hometown.",
+      "His friends are nowhere close and his relationship with his girlfriend has not been going so well. To add to his hardships, he gets involved in a terrible crime. The whole town thinks he is nuts, but there is one girl who understands him. Will she be able to help him?",
+      "The Orange Hangover is a grippy, engaging story of a young architect whose life has been going haywire, teaching us how to learn from our experiences and stand up for personal values when it matters most."
+    ],
+    "publisher": "Srishti Publishers",
+    "isbn": "978-9382665123",
+    "pages": "240",
+    "language": "English",
+    "price": "₹199",
+    "availability": "In Stock",
+    "published": true,
+    "featured": false,
+    "order": 1
+  },
+  {
+    "id": "paperback-dreams",
+    "slug": "paperback-dreams",
+    "title": "Paperback Dreams",
+    "year": "2020",
+    "cover": "/images/books/book-03.png",
+    "shortDescription": "How low will you stoop to fulfil your dreams? A witty, shocking story of young writers and the murky secrets of Indian publishing.",
+    "description": [
+      "How low will you stoop to fulfil your dreams? Jeet Roy, a college Casanova, has published a book by unfair means. All he wants is to earn loads of money and have hot girls chase after him wherever he goes!",
+      "Rohit Sehdev, a one-book-old popular fiction writer, is furious when he finds out that his publisher has cheated him out of his royalties. Karun Ahuja is a highly ambitious schoolboy who wants to win the heart of his lady love by writing a novel.",
+      "Ruthlessly exploiting these ambitious young men is their unscrupulous publisher. Sometimes funny, sometimes shocking, Paperback Dreams is the story of a new breed of young writers who will do anything to get famous, fast."
+    ],
+    "publisher": "Penguin Metro Reads",
+    "isbn": "978-0143420804",
+    "pages": "256",
+    "language": "English",
+    "price": "₹199",
+    "availability": "In Stock",
+    "published": true,
+    "featured": false,
+    "order": 2
+  },
+  {
+    "id": "just-for-you",
+    "slug": "just-for-you",
+    "title": "Just For You",
+    "year": "2020",
+    "cover": "/images/books/book-04.png",
+    "shortDescription": "When you love someone, what's there to prove? Everything! An adorable, bittersweet story about love and its responsibilities.",
+    "description": [
+      "When you love someone, what's there to prove? Everything! It looks like life is teaching Rohit a lesson. His publishing deals, his relationships, even his job – nothing seems to be working out.",
+      "To make matters worse, Karan is still trying his best to ruin him as a writer. But when Nisha leaves him, it's the ultimate blow. To win her back, Rohit must prove he loves her enough to do things that matter to her.",
+      "As Rohit takes control of his life, he begins to find things slowly changing for the better. Just for You is an adorable, bittersweet story about love, publishing, and real responsibility."
+    ],
+    "publisher": "Penguin Metro Reads",
+    "isbn": "978-0143422471",
+    "pages": "232",
+    "language": "English",
+    "price": "₹199",
+    "availability": "In Stock",
+    "published": true,
+    "featured": false,
+    "order": 3
+  },
+  {
+    "id": "those-small-lil-things",
+    "slug": "those-small-lil-things",
+    "title": "Those Small Lil Things",
+    "year": "2008",
+    "cover": "/images/books/book-05.png",
+    "shortDescription": "Rahul Saini's national acclaim debut novel about college life, growing up, friendship, and the small moments that matter.",
+    "description": [
+      "Rahul Saini's debut novel \"Those Small Lil Things\" achieved national acclaim upon its release in 2008.",
+      "A lighthearted yet perceptive tale of youth, college friendship, ambitious dreams, and the small everyday moments that shape our lives forever."
+    ],
+    "publisher": "Har-Anand Publications",
+    "isbn": "978-8124114254",
+    "pages": "210",
+    "language": "English",
+    "price": "₹175",
+    "availability": "In Stock",
+    "published": true,
+    "featured": false,
+    "order": 4
+  },
+  {
+    "id": "just-like-in-the-movies",
+    "slug": "just-like-in-the-movies",
+    "title": "Just Like In The Movies",
+    "year": "2012",
+    "cover": "/images/books/book-06.png",
+    "shortDescription": "A comical rollercoaster of youth, romance, and film-style drama.",
+    "description": [
+      "A fun, fast-paced novel exploring young romance, cinematic dreams, and the humorous twists of fate."
+    ],
+    "publisher": "Srishti Publishers",
+    "isbn": "978-9380349589",
+    "pages": "220",
+    "language": "English",
+    "price": "₹175",
+    "availability": "In Stock",
+    "published": true,
+    "featured": false,
+    "order": 5
+  }
+]
